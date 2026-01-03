@@ -1,5 +1,3 @@
-# Welcome
-
 Hi - I’m Andrew. I’m currently studying philosophy, politics, and economics at the University of Waikato, having previously completed undergraduate and Honours study in Computer Science and Data Analytics.  
 Outside of my studies, I’m interested in reading and gaming, trying new things, spending time outdoors, sport, and travel, alongside a wide range of other pursuits.
 
@@ -20,7 +18,7 @@ I also maintain a personal Substack largely focused on commentary, reflections, 
 Find below an example of my current flagship piece, which explores the issue of work hours and flexibility in NZ, from a policy, economic, sociological, and personal perspective.
 To view the full piece and others, please see my Substack in the *Links* section.
 
-![Brief screenshot preview of my main essay looking at workplace reform](/assets/images/work-essay.png)
+<img src="/assets/images/work-essay.png" width="300">
 
 ### Links
 - [GitHub](https://github.com/Alin2299)
